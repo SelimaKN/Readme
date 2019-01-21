@@ -1,8 +1,10 @@
 body{
-    
+    background-color: rgba(37, 37, 82, 0.753);
+    font-size: 20px
+} 
 h1{color: rgb(19, 46 53);font-size:50px;
 text-align: center;
-background-color: rgb(44, 88, 46);}
+background-color: dimgray;}
 h2{color: darkkhaki;
 text-align:center}
 p{color: antiquewhite;
@@ -17,9 +19,4 @@ background-size: 40px;}
 #image{
     
     height: 100px;
-}
-#form
-{
-    text-align: right;
-    color:white;
 }
